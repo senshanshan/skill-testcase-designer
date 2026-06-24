@@ -1,0 +1,7 @@
+interface:
+  display_name: "Skill Testcase Designer"
+  short_description: "Generate structured test cases for Skills and professional agents."
+  default_prompt: "Use $skill-testcase-designer to generate prioritized test cases for this Skill before release."
+
+policy:
+  allow_implicit_invocation: true
